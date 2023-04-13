@@ -1,16 +1,11 @@
-# Programming with Python Tutorials and Exercises
-Add-on complementary resources for Foundations of Programming course ITECH1400
+# Artificial Intelligence and Machine Learning Tutorials and Exercises
+Add-on complementary resources for Artificial Intelligence and Machine Learning course ITECH7001
 
 ## Table of Contents
 
 | Topic | Description | Google Colab Link |
 |-------|-------------|------------------|
 | [1-python-basics.ipynb](https://github.com/hkhdair/python-programming-tute/blob/main/1-python-basics.ipynb) | Basics of Python Programming | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hkhdair/python-programming-tute/blob/master/1-python-basics.ipynb) |
-| [1-python-basics-exercises.ipynb](https://github.com/hkhdair/python-programming-tute/blob/main/1-python-basics-exercises.ipynb) | Exercises for Basics of Python Programming | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hkhdair/python-programming-tute/blob/master/1-python-basics-exercises.ipynb) |
-| [2-conditionals-lists-loops.ipynb](https://github.com/hkhdair/python-programming-tute/blob/main/2-conditionals-lists-loops.ipynb) | Conditionals, Lists, and Loops in Python | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hkhdair/python-programming-tute/blob/master/2-conditionals-lists-loops.ipynb) |
-| [2-conditionals-lists-loops-exercises.ipynb](https://github.com/hkhdair/python-programming-tute/blob/main/2-conditionals-lists-loops-exercises.ipynb) | Exercises for Conditionals, Lists, and Loops in Python | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hkhdair/python-programming-tute/blob/master/2-conditionals-lists-loops-exercises.ipynb) |
-| [3-functions-classes-inheritance.ipynb](https://github.com/hkhdair/python-programming-tute/blob/main/3-functions-classes-inheritance.ipynb) | Functions, Classes and Objects, and Inheritance in Python | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hkhdair/python-programming-tute/blob/master/3-functions-classes-inheritance.ipynb) |
-| [4-logging-in-python.ipynb](https://github.com/hkhdair/python-programming-tute/blob/main/4-logging-in-python.ipynb) | Logging in Python | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hkhdair/python-programming-tute/blob/master/4-logging-in-python.ipynb) |
 
 > Note: To open the notebook in Google Colab, you'll need to have a Google account. If you don't have one, you can sign up for free [here](https://accounts.google.com/signup). Once you have an account, simply click on the "Open in Colab" button next to the notebook you want to open, and it will launch in a new tab in your browser.
 
