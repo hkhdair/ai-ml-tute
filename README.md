@@ -12,8 +12,8 @@ Add-on complementary resources for Artificial Intelligence and Machine Learning 
 
 ## Clone and Pull Updates
 ```bash
-git clone https://github.com/hkhdair/python-programming-tute.git
-cd python-programming-tute
+git clone https://github.com/hkhdair/ai-ml-tute
+cd ai-ml-tute
 ```
 then pull for updates
 ```bash
@@ -22,7 +22,7 @@ git pull
 
 ## Contributing
 
-If you find any issues or have suggestions for improvements, please feel free to report them by creating an issue in the [issue tracker](https://github.com/hkhdair/python-programming-tute/issues).
+If you find any issues or have suggestions for improvements, please feel free to report them by creating an issue in the [issue tracker](https://github.com/hkhdair/ai-ml-tute/issues).
 
 If you'd like to contribute to this tutorial, you can do so by opening a pull request. Here are the steps:
 
