@@ -5,11 +5,11 @@ Add-on complementary resources for Artificial Intelligence and Machine Learning 
 
 | Topic | Description | Google Colab Link |
 |-------|-------------|------------------|
-| [01-exploratory-data-analysis.ipynb](https://github.com/hkhdair/ai-ml-tute/blob/main/01-exploratory-data-analysis.ipynb) | Exploratory Data Analysis Basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hkhdair/ai-ml-tute/blob/master/01-exploratory-data-analysis.ipynb){:target="_blank"} |
-| [02-regression.ipynb](https://github.com/hkhdair/ai-ml-tute/blob/main/02-regression.ipynb) | Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hkhdair/ai-ml-tute/blob/master/02-regression.ipynb){:target="_blank"} |
-| [03-classification.ipynb](https://github.com/hkhdair/ai-ml-tute/blob/main/03-classification.ipynb) | Classification | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hkhdair/ai-ml-tute/blob/master/03-classification.ipynb){:target="_blank"} |
+| [01-exploratory-data-analysis.ipynb](https://github.com/hkhdair/ai-ml-tute/blob/main/01-exploratory-data-analysis.ipynb) | Exploratory Data Analysis Basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hkhdair/ai-ml-tute/blob/master/01-exploratory-data-analysis.ipynb) |
+| [02-regression.ipynb](https://github.com/hkhdair/ai-ml-tute/blob/main/02-regression.ipynb) | Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hkhdair/ai-ml-tute/blob/master/02-regression.ipynb) |
+| [03-classification.ipynb](https://github.com/hkhdair/ai-ml-tute/blob/main/03-classification.ipynb) | Classification | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hkhdair/ai-ml-tute/blob/master/03-classification.ipynb) |
 
-> Note: To work with the notebook in Google Colab, you'll need to have a Google account. If you don't have one, you can sign up for free [here](https://accounts.google.com/signup){:target="_blank"}. Once you have an account, simply click on the "Open in Colab" button next to the notebook you want to open, and it will launch in a new tab in your browser.
+> Note: To work with the notebook in Google Colab, you'll need to have a Google account. If you don't have one, you can sign up for free [here](https://accounts.google.com/signup). Once you have an account, simply click on the "Open in Colab" button next to the notebook you want to open, and it will launch in your browser.
 
 
 ## Clone and Pull Updates
